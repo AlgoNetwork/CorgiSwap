@@ -1,12 +1,12 @@
 # CorgiSwap
 
 
-CorgiSwap is a DEFI exchange price aggregator. help you swap trading with best price.
+CorgiSwap is a DEFI exchange price aggregator. help you swap trading with best price.<br>
 
-Support:
-Polygon
-Avalanche
+Support:<br>
+Polygon<br>
+Avalanche<br>
 
-add we will add more support chain!
+add we will add more support chain!<br>
 
 https://algonetwork.github.io/CorgiSwap/
