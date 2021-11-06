@@ -53,14 +53,6 @@ let PolygonTokens={
     "chainId": 137,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0/logo.png"
   },
-    {
-    "name": "Wrapped Matic",
-    "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
-    "symbol": "WMATIC",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0/logo.png"
-  },
   {
     "name": "Dai Stablecoin",
     "address": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
