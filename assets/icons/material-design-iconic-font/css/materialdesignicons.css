@@ -4062,7 +4062,7 @@
 }
 
 .mdi-home-outline:before {
-  content: "\F6A0";
+  /* content: "\F6A0"; */
 }
 
 .mdi-home-variant:before {
