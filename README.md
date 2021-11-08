@@ -3,9 +3,11 @@
 
 CorgiSwap is a DEFI exchange price aggregator. help you swap trading with best price.<br>
 
-Support:<br>
+Support Blockchain:<br>
 Polygon<br>
 Avalanche<br>
+Fantom<br>
+Binance<br>
 
 add we will add more support chain!<br>
 
