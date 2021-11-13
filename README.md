@@ -1,6 +1,10 @@
-<img src="https://github.com/AlgoNetwork/CorgiSwap/blob/main/logo.png?raw=true">  
+
 
 # CorgiSwap
+
+
+Due to the name change, the new project has been moved to:
+https://github.com/AlgoNetwork/UniInch
 
 
 CorgiSwap is a DEFI exchange price aggregator. help you swap trading with best price.<br>
