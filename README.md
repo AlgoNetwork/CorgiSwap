@@ -3,7 +3,7 @@
 # CorgiSwap
 
 
-Due to the name change, the new project has been moved to:
+Due to the project name change, the new project has been moved to:
 https://github.com/AlgoNetwork/UniInch
 
 
