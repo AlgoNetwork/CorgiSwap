@@ -17,7 +17,6 @@ Binance<br>
 
 add we will add more support chain!<br>
 
-https://algonetwork.github.io/CorgiSwap/
 
 <img src="https://github.com/AlgoNetwork/CorgiSwap/raw/main/preview.png">
 <br>
